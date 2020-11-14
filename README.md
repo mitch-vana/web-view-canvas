@@ -66,7 +66,7 @@ const drawLine = async (xStart, yStart, xEnd, yEnd, strokeColor) => {
 
     context.lineWidth = 40;
     context.strokeStyle = strokeColor;
-    context.linCap = 'round';
+    context.lineCap = 'round';
 
     context.stroke();
 };
