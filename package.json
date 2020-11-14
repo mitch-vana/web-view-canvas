@@ -1,0 +1,24 @@
+{
+  "name": "web-view-canvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitch-vana/web-view-canvas.git"
+  },
+  "author": "Mitch Vana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitch-vana/web-view-canvas/issues"
+  },
+  "homepage": "https://github.com/mitch-vana/web-view-canvas#readme",
+  "devDependencies": {
+    "@scriptable-ios/eslint-config": "^1.5.1",
+    "@types/scriptable-ios": "^1.6.1"
+  },
+  "dependencies": {}
+}
